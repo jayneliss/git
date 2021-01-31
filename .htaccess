@@ -1,0 +1,4 @@
+
+# BEGIN miniOrange WAF
+php_value auto_prepend_file /var/www/diaryofjayne.ml/mo-check.php
+# END miniOrange WAF
